@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Basic Compose Layouts</string>
+    <string name="the_search_icon">The search icon</string>
+    <string name="search">Search</string>
+    <string name="inversions">Inversions</string>
+    <string name="nature_meditations">Nature Meditations</string>
+    <string name="align_your_body">Align Your Body</string>
+    <string name="favorite_collections">Favorite Collections</string>
+    <string name="profile">Profile</string>
+    <string name="home">Home</string>
+</resources>
